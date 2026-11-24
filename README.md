@@ -1,6 +1,8 @@
 # The One-Line Exit
 
 [![make.fun](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1.svg)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1)
+[![rank](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1/Bozet404/u-kreutzx-the-one-line-exit-1dc652d1/rank.svg)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1/leaderboard)
+[![reward](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1/Bozet404/u-kreutzx-the-one-line-exit-1dc652d1/reward.svg)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1)
 
 One funny single-line resignation letter, written for the
 [The One-Line Exit](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1)
